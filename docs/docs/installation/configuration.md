@@ -55,7 +55,7 @@ As you can see, we load the needed intergrations and add a new dashboard called 
 
 ## Change the Theme
 
-We have two teams available by default. The gold (and original) one and the new Peach theme. You can always switch later.
+We have two themes available by default. The gold (and original) one and the new Peach theme. You can always switch later.
 
 1. Go to your Home Assistant profile settings.
 2. Change the theme to your desired theme. You can access your profile settings [here](https://my.home-assistant.io/redirect/profile).
